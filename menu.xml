@@ -16,6 +16,15 @@
             </menuitem>
          </menu>
     </menuitem>
+    <menuitem label='Reports'>
+        <icon>fa:home fa-fw</icon>
+        <menu>
+            <menuitem label='Sample Sales reports'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>ReportView</action>
+            </menuitem>
+        </menu>
+    </menuitem>
     <!-- <menuitem label='Home'>
         <icon>fa:home fa-fw</icon>
         <menu>
